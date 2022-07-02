@@ -8,4 +8,4 @@ Created Seperate Components for Notes, CreateArea, Header and Footer.
 Added feature to dynamically Add and Delete Notes by passing required parameters to each of the components.
 
 
-Clone the Repo and use npm start to run the React app.
+Clone the Repo and use npm install and after that npm start to run the React app.
